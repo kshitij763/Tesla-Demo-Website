@@ -1,0 +1,18 @@
+a,p{
+	color: darkcyan;
+}
+p,a,div{
+	font-family: cursive;
+}
+div{
+	text-transform: uppercase;
+}
+h2,h3{
+	text-transform: uppercase;
+	color: indigo;
+}
+h1{
+	text-transform: uppercase;
+	color: greenyellow;
+	font-family: sans-serif;
+}
